@@ -1,0 +1,4 @@
+body { background-color: #c9c8c8; }
+a { color: #000; font-weight: bold; text-decoration: underline; }
+.container { background-color: #878787; margin: 1em auto; }
+.row { margin: 0 -15px 2em; }
